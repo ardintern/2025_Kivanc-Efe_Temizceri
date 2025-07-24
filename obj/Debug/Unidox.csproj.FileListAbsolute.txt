@@ -1,0 +1,73 @@
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\bin\Debug\Unidox.exe.config
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\bin\Debug\Unidox.exe
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\bin\Debug\Unidox.pdb
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.csproj.AssemblyReference.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.Properties.Resources.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.csproj.GenerateResource.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.csproj.CoreCompileInputs.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.exe
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.pdb
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.Login.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.FonkForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.ServiceForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.KrediForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.KrediForm2.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.UserAliases.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\bin\Debug\Unidox.exe.config
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\bin\Debug\Unidox.exe
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\bin\Debug\Unidox.pdb
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.csproj.AssemblyReference.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.KrediForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.KrediForm2.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.Login.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.FonkForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.Properties.Resources.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.ServiceForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.UserAliases.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.csproj.GenerateResource.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.csproj.CoreCompileInputs.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.exe
+C:\Users\ke_te\OneDrive\Masaüstü\unidox day-3(send invoice)\unidox\Unidox\obj\Debug\Unidox.pdb
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\bin\Debug\Unidox.exe.config
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\bin\Debug\Unidox.exe
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\bin\Debug\Unidox.pdb
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.csproj.AssemblyReference.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.KrediForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.KrediForm2.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.Login.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.FonkForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.Properties.Resources.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.ServiceForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.UserAliases.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.csproj.GenerateResource.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.csproj.CoreCompileInputs.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.exe
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.pdb
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\unidox\Unidox\obj\Debug\Unidox.FonkFormE_Fatura_Sorgu.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.FonkFormE_Fatura_Sorgu.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.QueryUsers.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.QueryOutboxDocument.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.QueryOutboxDocumentWithDocumentDate.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.QueryAppResponseOfOutboxDocument.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox\Unidox\obj\Debug\Unidox.QueryAppResponseOfInboxDocument.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\bin\Debug\Unidox.exe.config
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\bin\Debug\Unidox.exe
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\bin\Debug\Unidox.pdb
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.csproj.AssemblyReference.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.FonkFormE_Fatura_Sorgu.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.KrediForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.KrediForm2.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.Login.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.FonkForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.Properties.Resources.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.QueryAppResponseOfInboxDocument.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.QueryAppResponseOfOutboxDocument.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.QueryOutboxDocument.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.QueryOutboxDocumentWithDocumentDate.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.QueryUsers.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.ServiceForm.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.UserAliases.resources
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.csproj.GenerateResource.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.csproj.CoreCompileInputs.cache
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.exe
+C:\Users\ke_te\OneDrive\Masaüstü\unidox-KET-Final\unidox\Unidox\obj\Debug\Unidox.pdb
