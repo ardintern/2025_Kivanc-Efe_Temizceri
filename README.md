@@ -1,0 +1,1 @@
+# 2025_Kivanc-Efe_Temizceri
