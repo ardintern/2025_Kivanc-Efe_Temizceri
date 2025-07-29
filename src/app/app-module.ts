@@ -7,6 +7,7 @@ import {MoviesComponent} from './movies/movies.component';
 import { Movie } from './movie/movie'
 import { FormsModule } from '@angular/forms';
 import { MovieDetail } from './movie-detail/movie-detail';
+import { Logging } from './logging/logging';
 
 
 
@@ -15,7 +16,8 @@ import { MovieDetail } from './movie-detail/movie-detail';
     App,
     MoviesComponent,
     Movie,
-    MovieDetail
+    MovieDetail,
+    Logging
   ],
   imports: [
     BrowserModule,
