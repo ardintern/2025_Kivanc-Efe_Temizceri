@@ -10,6 +10,9 @@ import { MovieDetail } from './movie-detail/movie-detail';
 import { Logging } from './logging/logging';
 import { Navbar } from './navbar/navbar';
 import { Dashboard } from './dashboard/dashboard';
+import { HttpClientModule } from '@angular/common/http';
+import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
+import { InMemoryData } from './in-memory-data.service';
 
 
 
@@ -26,7 +29,14 @@ import { Dashboard } from './dashboard/dashboard';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule,
+    HttpClientInMemoryWebApiModule.forRoot(
+
+      InMemoryData, {dataEncapsulation: false}
+
+    )
+    
   ],
   providers: [
     provideBrowserGlobalErrorListeners()
