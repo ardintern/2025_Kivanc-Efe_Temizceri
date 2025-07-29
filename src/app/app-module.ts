@@ -5,6 +5,8 @@ import { AppRoutingModule } from './app-routing-module';
 import { App } from './app';
 import {MoviesComponent} from './movies/movies.component';
 import { Movie } from './movie/movie'
+import { FormsModule } from '@angular/forms';
+import { MovieDetail } from './movie-detail/movie-detail';
 
 
 
@@ -12,11 +14,13 @@ import { Movie } from './movie/movie'
   declarations: [
     App,
     MoviesComponent,
-    Movie
+    Movie,
+    MovieDetail
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [
     provideBrowserGlobalErrorListeners()
