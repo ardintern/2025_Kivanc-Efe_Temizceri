@@ -8,6 +8,8 @@ import { Movie } from './movie/movie'
 import { FormsModule } from '@angular/forms';
 import { MovieDetail } from './movie-detail/movie-detail';
 import { Logging } from './logging/logging';
+import { Navbar } from './navbar/navbar';
+import { Dashboard } from './dashboard/dashboard';
 
 
 
@@ -17,7 +19,9 @@ import { Logging } from './logging/logging';
     MoviesComponent,
     Movie,
     MovieDetail,
-    Logging
+    Logging,
+    Navbar,
+    Dashboard
   ],
   imports: [
     BrowserModule,
