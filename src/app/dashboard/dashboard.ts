@@ -28,7 +28,7 @@ export class Dashboard {
 
     this.movieService.getMovies()
                   .subscribe(movies=> {
-                    this.movies = movies.slice(0,5);
+                    this.movies = movies.slice(0,11);
                     this.movieLength = movies.length;
                   })
 

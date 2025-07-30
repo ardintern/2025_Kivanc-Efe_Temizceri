@@ -43,5 +43,20 @@ export class MoviesComponent {
      }
 
 
+     add(name:string,imageUrl:string, description:string): void {
+
+             this.movieService.add({
+
+              name,
+              imageUrl,
+              description
+
+             } as Movie).subscribe(movie=>this.movies.push(movie));
+
+
+
+     }
+
+
 
 }

@@ -53,4 +53,18 @@ export class MovieService {
      }
 
 
+
+      add(movie: Movie): Observable<Movie> {
+
+
+           return this.http.post<Movie>(this.apiMoviesUrl, movie);    
+
+
+      }
+
+
+
+
+
+
   }
