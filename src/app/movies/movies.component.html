@@ -10,7 +10,8 @@
         class="list-group-item">
 
       <span class="badge bg-primary me-2">{{ movie.id }}</span>{{ movie.name }}
-      <button type="button" class="btn-close float-end" aria-label="Close"></button>
+      <button (click)="delete(movie); $event.stopPropagation()" type="button" class="btn-close float-end" aria-label="Close"></button>
+
     </li>
   </ul>
 </div>
