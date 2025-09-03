@@ -1,0 +1,70 @@
+<p-toast></p-toast>
+
+<div class="flex align-items-center justify-content-center min-h-screen">
+  <p-card class="w-full sm:w-30rem shadow-5" styleClass="p-4 border-round-xl">
+
+    <h3 class="text-center mb-4">
+      <i class="pi pi-sign-in mr-2"></i>Giriş Yap
+    </h3>
+
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+
+      <!-- TC Kimlik No -->
+      <div class="field mb-3">
+        <label for="tc">TC Kimlik No</label>
+        <input id="tc" type="text" pInputText formControlName="tc" placeholder="11 haneli TC giriniz" class="w-full">
+        <small *ngIf="loginForm.get('tc')?.touched && loginForm.get('tc')?.invalid" class="p-error">
+          <ng-container *ngIf="loginForm.get('tc')?.errors?.['required']">
+            TC kimlik numarası zorunludur.
+          </ng-container>
+          <ng-container *ngIf="loginForm.get('tc')?.errors?.['pattern']">
+            TC kimlik numarası 11 haneli olmalıdır.
+          </ng-container>
+        </small>
+      </div>
+
+      <!-- Email -->
+      <div class="field mb-3">
+        <label for="email">Email</label>
+        <input id="email" type="email" pInputText formControlName="email" placeholder="email@example.com" class="w-full">
+        <small *ngIf="loginForm.get('email')?.touched && loginForm.get('email')?.invalid" class="p-error">
+          <ng-container *ngIf="loginForm.get('email')?.errors?.['required']">
+            Email zorunludur.
+          </ng-container>
+          <ng-container *ngIf="loginForm.get('email')?.errors?.['email']">
+            Geçerli bir email giriniz.
+          </ng-container>
+        </small>
+      </div>
+
+      <!-- Şifre -->
+      <div class="field mb-3">
+        <label for="password">Şifre</label>
+        <div class="p-inputgroup">
+          <input [type]="showPassword ? 'text' : 'password'" id="password" pInputText formControlName="password" placeholder="Şifrenizi girin" class="w-full">
+          <button pButton type="button" class="p-button-outlined" (click)="togglePasswordVisibility()">
+            {{ showPassword ? 'Gizle' : 'Göster' }}
+          </button>
+        </div>
+        <small *ngIf="loginForm.get('password')?.touched && loginForm.get('password')?.invalid" class="p-error">
+          <ng-container *ngIf="loginForm.get('password')?.errors?.['required']">
+            Şifre zorunludur.
+          </ng-container>
+          <ng-container *ngIf="loginForm.get('password')?.errors?.['minlength']">
+            En az 6 karakter giriniz.
+          </ng-container>
+        </small>
+      </div>
+
+      <!-- Submit -->
+      <button 
+        pButton 
+        type="submit" 
+        class="w-full mt-3 p-button-success" 
+        [disabled]="loading">
+        {{ loading ? 'Giriş yapılıyor...' : 'Giriş Yap' }}
+      </button>
+
+    </form>
+  </p-card>
+</div>

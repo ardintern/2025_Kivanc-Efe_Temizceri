@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|c:\\users\\ke_te\\onedrive\\masa\u00FCst\u00FC\\kommerse_with_elasticsearch\\kommerse\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|c:\\users\\ke_te\\onedrive\\masa\u00FCst\u00FC\\kommerse_with_elasticsearch\\kommerse\\ecommerceapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|c:\\users\\ke_te\\onedrive\\masa\u00FCst\u00FC\\kommerse_with_elasticsearch\\kommerse\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|c:\\users\\ke_te\\onedrive\\masa\u00FCst\u00FC\\kommerse_with_elasticsearch\\kommerse\\ecommerceapi\\ecommerceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|solutionrelative:ecommerceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|c:\\users\\ke_te\\onedrive\\masa\u00FCst\u00FC\\kommerse_with_elasticsearch\\kommerse\\ecommerceapi\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB0132D-6915-4856-A3D0-8FD5BB063901}|ECommerceApi.csproj|solutionrelative:helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:36:00.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECommerceApi.http",
+              "DocumentMoniker": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\ECommerceApi.http",
+              "RelativeDocumentMoniker": "ECommerceApi.http",
+              "ToolTip": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\ECommerceApi.http",
+              "RelativeToolTip": "ECommerceApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-11T08:41:31.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:35:10.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T17:27:58.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\Helpers\\Logger.cs",
+              "RelativeDocumentMoniker": "Helpers\\Logger.cs",
+              "ToolTip": "C:\\Users\\ke_te\\OneDrive\\Masa\u00FCst\u00FC\\Kommerse_With_ElasticSearch\\Kommerse\\ECommerceApi\\Helpers\\Logger.cs",
+              "RelativeToolTip": "Helpers\\Logger.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:35:27.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
